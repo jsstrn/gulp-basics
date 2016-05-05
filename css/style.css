@@ -1,0 +1,9 @@
+body {
+  width: 47.36842%;
+  float: left;
+  margin-right: 5.26316%;
+  background-color: whitesmoke;
+  width: 40%;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }

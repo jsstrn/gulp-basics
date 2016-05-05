@@ -1,0 +1,8 @@
+@import 'susy/sass/susy';
+
+body {
+  @include span(2);
+  background-color: whitesmoke;
+  width: percentage(2/5);
+  display: flex;
+}
